@@ -1,0 +1,10 @@
+{
+  "user_id": "vishal",
+  "dietary_needs": [
+    "vegetarian"
+  ],
+  "target_calories": 2200,
+  "allergies": [
+    "nuts"
+  ]
+}

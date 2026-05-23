@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-03-29T00:08:30.917879",
+    "dietary_needs": "vegetarian",
+    "calories": 2000,
+    "recommendation": "\n**Mediterranean Vegetarian Bowl** - 2000 calories\n\n**Ingredients:**\n- 1 cup quinoa (cooked)\n- 1 cup roasted chickpeas\n- Mixed roasted vegetables (zucchini, bell peppers, tomatoes)\n- 1/4 cup tahini dr..."
+  },
+  {
+    "timestamp": "2026-03-29T01:06:39.809638",
+    "dietary_needs": "vegetarian",
+    "calories": 2000,
+    "recommendation": "[WARNING: Using demo data due to API issue]\n\nError: Gemini API failed after retries: Gemini API failed: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and ..."
+  },
+  {
+    "timestamp": "2026-03-31T00:00:38.793002",
+    "dietary_needs": "vegetarian",
+    "calories": 2000,
+    "recommendation": "[WARNING: Using demo data due to API issue]\n\nError: Gemini API failed after retries: Gemini API failed: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and ..."
+  },
+  {
+    "timestamp": "2026-03-31T00:05:42.266103",
+    "dietary_needs": "vegetarian",
+    "calories": 2000,
+    "recommendation": "[WARNING: Using demo data due to API issue]\n\nError: Gemini API failed after retries: Gemini API failed: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and ..."
+  },
+  {
+    "timestamp": "2026-04-09T13:53:00.026931",
+    "dietary_needs": "vegetarian",
+    "calories": 2000,
+    "recommendation": "[WARNING: Using demo data due to API issue]\n\nError: Gemini API failed after retries: Gemini API failed: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and ..."
+  },
+  {
+    "timestamp": "2026-04-09T13:55:37.067278",
+    "dietary_needs": "vegetarian",
+    "calories": 2000,
+    "recommendation": "Meal Name: Lentil Shepherd's Pie with Sweet Potato Topping\nIngredients:\n- 1 cup dried brown or green lentils, rinsed\n- 3 cups vegetable broth\n- 1 tablespoon olive oil\n- 1 large onion, chopped\n- 2 carr..."
+  },
+  {
+    "timestamp": "2026-04-09T14:06:20.485743",
+    "dietary_needs": "vegetarian",
+    "calories": 2000,
+    "recommendation": "Meal Name: Breakfast Power Bowl\nIngredients:\n1 cup cooked quinoa\n1/2 cup black beans, rinsed and drained\n1/4 avocado, sliced\n1/4 cup salsa\n2 tablespoons shredded cheese (cheddar or Monterey Jack)\n1/4 ..."
+  }
+]

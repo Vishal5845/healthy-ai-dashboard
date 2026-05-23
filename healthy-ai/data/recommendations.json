@@ -1,0 +1,181 @@
+[
+  {
+    "id": "0cffdb45-1a66-4eba-aec5-1c8a96da7e44",
+    "timestamp": "2026-05-23T19:47:25.537929",
+    "dietary_needs": "veg",
+    "calories": 600,
+    "user_id": "18f6c399-dfbe-40a9-8b3d-f9134e53f15f",
+    "recommendation": {
+      "success": true,
+      "source": "demo",
+      "meal": {
+        "meal_name": "Mediterranean Power Bowl",
+        "diet_type": "vegetarian",
+        "total_calories": 600,
+        "macronutrients": {
+          "protein": 30,
+          "carbs": 75,
+          "fat": 20
+        },
+        "micronutrients": {
+          "iron_mg": 18,
+          "calcium_mg": 800,
+          "vitamin_b12_mcg": 2.4,
+          "fiber_g": 30,
+          "vitamin_d_mcg": 10
+        },
+        "ingredients": [
+          {
+            "name": "Quinoa",
+            "quantity": "1 cup",
+            "calories": 220
+          },
+          {
+            "name": "Chickpeas",
+            "quantity": "1 cup",
+            "calories": 270
+          },
+          {
+            "name": "Mixed Vegetables",
+            "quantity": "1 cup",
+            "calories": 150
+          },
+          {
+            "name": "Olive Oil",
+            "quantity": "1 tbsp",
+            "calories": 120
+          }
+        ],
+        "benefits": [
+          "Balanced macro distribution",
+          "Supports sustained energy",
+          "Rich in essential nutrients"
+        ],
+        "warnings": [
+          "Adjust portions based on activity level"
+        ],
+        "meal_tags": [
+          "Vegetarian",
+          "Balanced",
+          "High-Fiber"
+        ]
+      }
+    }
+  },
+  {
+    "id": "49631ff3-2dfd-4b99-a20b-6aa1ccd5289c",
+    "timestamp": "2026-05-23T19:41:08.036401",
+    "dietary_needs": "high-protein",
+    "calories": 340,
+    "user_id": "vishal",
+    "recommendation": {
+      "success": true,
+      "source": "demo",
+      "meal": {
+        "meal_name": "Protein Recovery Plate",
+        "diet_type": "high_protein",
+        "total_calories": 340,
+        "macronutrients": {
+          "protein": 17,
+          "carbs": 42,
+          "fat": 11
+        },
+        "micronutrients": {
+          "iron_mg": 18,
+          "calcium_mg": 800,
+          "vitamin_b12_mcg": 2.4,
+          "fiber_g": 30,
+          "vitamin_d_mcg": 10
+        },
+        "ingredients": [
+          {
+            "name": "Paneer",
+            "quantity": "200g",
+            "calories": 320
+          },
+          {
+            "name": "Brown Rice",
+            "quantity": "1 cup",
+            "calories": 210
+          },
+          {
+            "name": "Greek Yogurt",
+            "quantity": "1 bowl",
+            "calories": 140
+          }
+        ],
+        "benefits": [
+          "Balanced macro distribution",
+          "Supports sustained energy",
+          "Rich in essential nutrients"
+        ],
+        "warnings": [
+          "Adjust portions based on activity level"
+        ],
+        "meal_tags": [
+          "High-Protein",
+          "Muscle Gain",
+          "Recovery"
+        ]
+      }
+    }
+  },
+  {
+    "id": "73419c3d-feb5-4ace-a872-6adfe0696a05",
+    "timestamp": "2026-05-23T19:40:58.306645",
+    "dietary_needs": "vegan",
+    "calories": 340,
+    "user_id": "vishal",
+    "recommendation": {
+      "success": true,
+      "source": "demo",
+      "meal": {
+        "meal_name": "Vegan Energy Bowl",
+        "diet_type": "vegan",
+        "total_calories": 340,
+        "macronutrients": {
+          "protein": 17,
+          "carbs": 42,
+          "fat": 11
+        },
+        "micronutrients": {
+          "iron_mg": 18,
+          "calcium_mg": 800,
+          "vitamin_b12_mcg": 2.4,
+          "fiber_g": 30,
+          "vitamin_d_mcg": 10
+        },
+        "ingredients": [
+          {
+            "name": "Tofu",
+            "quantity": "200g",
+            "calories": 180
+          },
+          {
+            "name": "Sweet Potato",
+            "quantity": "1 medium",
+            "calories": 160
+          },
+          {
+            "name": "Spinach",
+            "quantity": "1 cup",
+            "calories": 40
+          }
+        ],
+        "benefits": [
+          "Balanced macro distribution",
+          "Supports sustained energy",
+          "Rich in essential nutrients"
+        ],
+        "warnings": [
+          "Adjust portions based on activity level"
+        ],
+        "meal_tags": [
+          "Vegan",
+          "Plant-Based",
+          "Clean Eating"
+        ]
+      }
+    }
+  }
+]
